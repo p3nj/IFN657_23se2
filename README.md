@@ -2,17 +2,29 @@
 Principle of Software Security
 
 ## Structure
+
  Assignment1
+
     ├──  assignment.h
+    
     ├──  bo
+    
     ├──  bo.c
+    
     ├──  fs
+    
     ├──  fs.c
+    
     ├──  input.txt
+    
     ├──  payload.txt
+    
     ├──  payload_bo.py
+    
     ├──  payload_fs.py
+    
     ├──  stacktable.py
+    
 
 ## Assignment 1
 - assignment.h
